@@ -1,0 +1,65 @@
+body 
+{ 
+    background-image: url('backround.jpg') ;
+    background-repeat: no-repeat ;
+    width: 1180px ;
+    height: 200px ;
+    }
+    .name {
+        margin-left : 80px;
+        color: #1d1c1ce7 ;
+        margin-top : 3px ;
+         }
+    
+    .Home {
+        border: 2px solid black;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: azure ;}
+    .Home:hover {
+        background-color:white ;}
+    .About {
+        border: 2px solid none;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: #1d1c1ce7;  
+     }
+    .contactme {
+        border: 2px solid none;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: #1d1c1ce7;
+        }
+    .traineeship{
+            border: 2px solid none;
+            border-radius: 30px;
+            padding :15px ; 
+            text-decoration: none ;
+            color: #1d1c1ce7;
+            }
+    HEADER {
+        display: flex ;
+        justify-content: space-between ;
+        margin-top : 30px ;
+        }  
+        .txt3 { 
+            color: rgb(30, 30, 156) ;
+            margin-left : 110px ;} 
+        .blackfooter{ color: white;
+        }
+        .presentation {
+            margin-top: 180px ;
+            margin-left : 300px ;
+            font-size: 20px ;
+             } 
+        p.soustxt3 {
+                width: 25em; 
+                border: 1px solid none;
+                word-wrap: none;
+                text-indent: 10px;
+            }
+           
+        

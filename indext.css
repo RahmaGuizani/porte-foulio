@@ -1,0 +1,150 @@
+body 
+{ 
+    background-color: gainsboro ;
+    background-repeat: no-repeat ;
+    width: 1100px ;
+    height: 100px ;
+    }
+    .name {
+        margin-left : 80px;
+        color: #1d1c1ce7 ;
+        margin-top : 3px ;
+         }
+    
+    .Home {
+        border: 2px solid black;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: #1d1c1ce7;
+      }
+    .Home:hover {
+        background-color:white ;}
+    .About {
+        border: 2px solid none;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: #1d1c1ce7;  
+     }
+    .contactme {
+        border: 2px solid none;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: #1d1c1ce7;
+        }
+    .traineeship{
+        border: 2px solid none;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: #1d1c1ce7;
+        }
+   
+    HEADER {
+        display: flex ;
+        justify-content: space-between ;
+        margin-top : 30px ;
+        }  
+       
+        .table-internshipe {  
+            margin-top: 2em;
+        }
+        .inger{ margin-left: 500px ;}
+        .footer { 
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color:  none;
+            color: black;
+            text-align: center;
+            border: 2px solid rgb(172, 165, 154) ;
+            border-style: solid;
+            margin-bottom: 0.5em ;
+        }
+        
+        /*
+        .section1-titre h2 {
+            display: inline-block;
+            border-bottom: 2px solid rgba(0,0,0,0.1);
+            font-size: 0.889em;
+            line-height: 1.8;
+            text-align: center ;
+            margin-left: 620px ;
+            margin-bottom: 0.5em ;
+         }
+        th {
+            text-align: left;}
+        p{text-justify: auto ;}
+
+        .comptance{ margin-left:260px ;
+            margin-top: 1em ;}
+        
+        .section2-txt { 
+            margin-left: 500px ;
+            margin-bottom: 7em ;
+        color :red ;}
+        
+        
+        /*
+        .namecontact { font-size: 2em !important;
+        background-color: rgba(255,255,255,0.15);
+        box-sizing: border-box;
+        margin-bottom: 1em;
+        border-width: 2px;
+        border-style: solid;
+        border-color: rgba(0, 0, 0, 0.1);
+        -webkit-border-radius: 0.333em;
+        -moz-border-radius: 0.333em;
+        border-radius: 0.333em;
+        color: #333;}
+        .email{ font-size: 2em !important;
+            background-color: rgba(255,255,255,0.15);
+            box-sizing: border-box;
+            margin-bottom: 1em;
+            border-width: 2px;
+            border-style: solid;
+            border-color: rgba(0, 0, 0, 0.1);
+            -webkit-border-radius: 0.333em;
+            -moz-border-radius: 0.333em;
+            border-radius: 0.333em;
+            color: #333;}
+        .subject{ font-size: 2em !important;
+             background-color: rgba(255,255,255,0.15);
+            box-sizing: border-box;
+            margin-bottom: 1em;
+            border-width: 2px;
+            border-style: solid;
+            border-color: rgba(0, 0, 0, 0.1);
+            -webkit-border-radius: 0.333em;
+            -moz-border-radius: 0.333em;
+            border-radius: 0.333em;
+            color: #333;}
+       .message1{ font-size: 2em !important;
+            background-color: rgba(255,255,255,0.15);
+            box-sizing: border-box;
+            margin-bottom: 1em;
+            border-width: 2px;
+            border-style: solid;
+            border-color: rgba(0, 0, 0, 0.1);
+            -webkit-border-radius: 0.333em;
+            -moz-border-radius: 0.333em;
+            border-radius: 0.333em;
+            color: #333;}
+        .submitsend {border-radius: 0.333em ;
+           background-color: rgba(84,87,102,1);
+           color: #FFFFFF !important;
+           text-decoration: none !important;
+           text-transform: uppercase;
+           font-size: 1.2em !important;
+           font-family: 'Montserrat', sans-serif !important;
+           line-height: 1.7em !important;
+           cursor: pointer;}
+        .NESM{ margin-top: 35px ;
+            margin-left : 150px ;}
+        .getintouch 
+        {text-decoration-line: underline ;
+        margin-left: 600px ;}            
+        

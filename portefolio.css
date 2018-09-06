@@ -1,0 +1,213 @@
+body
+{ 
+    background-image: url('backround .jpg');
+    background-size: cover;
+    background-repeat: no-repeat ;
+    
+    }
+
+.name {
+        margin-left : 80px;
+        color: wheat ;
+        margin-top : 3px ;
+         }
+    
+.boutton-home {
+        border: 2px solid wheat;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none;
+        color: #1d1c1ce7;
+        color: azure ;
+      }
+.boutton-home:hover {
+        background-color:white ;}
+.boutton-about {
+        border: 2px solid none;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: white;  
+     }
+.boutton-contactme {
+        border: 2px solid none;
+        border-radius: 30px;
+        padding :15px ; 
+        text-decoration: none ;
+        color: white;
+        }
+.boutton-traineeship{
+            border: 2px solid none;
+            border-radius: 30px;
+            padding :15px ; 
+            text-decoration: none ;
+            color: white;
+            }
+   
+HEADER {
+        display: flex ;
+        justify-content: space-between ;
+        margin-top : 20px ;
+        }   
+.presentation-home {
+    display: inline-block;
+    position: relative;
+    top:30px;
+    left:650px;
+    font-size: 20px; 
+         }  
+.txt-pres-home { 
+        color: rgb(30, 30, 156) ;
+        margin-left : 60px ;}
+.lign-one{margin-top:-4em }   
+p.soustxt-pres-home { 
+    width: 80em ;
+    border : 0;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;}
+.boutton-seemore {
+        border: 2px solid blue ;
+        border-width:2px ;  
+        border-style:solid;   
+        padding :15px ; 
+        text-decoration: none ;
+        color: #1d1c1ce7;
+        margin-left : 115px ;
+        margin-bottom: 1000px
+              }
+.seemore:hover {
+        background-color:white;
+        }         
+.me{
+    border-radius: 50px;
+    width:1.5in;
+    height: 1.5in;
+    position :relative ;  
+    top: 140px;
+    left: 180px;}
+.txt-pres-about { 
+        color: rgb(30, 30, 156) ;
+        margin-left : 150px ;} 
+    
+.presentation-about {
+      
+        margin-left : 600px ;
+        font-size: 20px ;
+         } 
+p.soustxt-pres-about {
+        border: 2px solid blue ;
+        border-width:2px ;  
+        border-style:solid;   
+        padding :15px ; 
+            width: 25em; 
+            border: 1px solid none;
+            word-wrap: none;
+            text-indent: 10px;
+            font-size: 20px ;
+           }
+
+.txt-pres-contact { 
+            color: rgb(30, 30, 156) ;
+            margin-left : 150px ;
+            margin-left : 750px ;
+            font-size: 30px;} 
+.lign-two{margin-top: 60px;}
+
+        
+.namecontact { font-size: 2em !important;
+            background-color: rgba(255,255,255,0.15);
+            box-sizing: border-box;
+            margin-bottom: 1em;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #ffd900; 
+            -webkit-border-radius: 0.333em;
+            -moz-border-radius: 0.333em;
+            border-radius: 0.333em;
+            color: white;}
+.email{ font-size: 2em !important;
+                background-color: rgba(255,255,255,0.15);
+                box-sizing: border-box;
+                margin-bottom: 1em;
+                border-width: 1px;
+                border-style: solid;
+                border-color: #ffd900;
+                -webkit-border-radius: 0.333em;
+                -moz-border-radius: 0.333em;
+                border-radius: 0.333em;
+                color: white;}
+.subject{ font-size: 2em !important;
+                 background-color: rgba(255,255,255,0.15);
+                box-sizing: border-box;
+                margin-bottom: 1em;
+                border-width: 1px;
+                border-style: solid;
+                border-color: #ffd900;;
+                -webkit-border-radius: 0.333em;
+                -moz-border-radius: 0.333em;
+                border-radius: 0.333em;
+                color: white;}
+.message1{ font-size: 2em !important;
+                background-color: rgba(255,255,255,0.15);
+                box-sizing: border-box;
+                margin-bottom: 1em;
+                border-width: 1px;
+                border-style: solid;
+                border-color: #ffd900;
+                -webkit-border-radius: 0.333em;
+                -moz-border-radius: 0.333em;
+                border-radius: 0.333em;
+                color: white;}
+.submitsend {  border-radius: 0.333em ;
+               background-color: rgb(235, 181, 33);
+               color: #FFFFFF !important;
+               text-decoration: none !important;
+               text-transform: uppercase;
+               font-size: 1.2em !important;
+               line-height: 1.7em !important;
+               cursor: pointer;}
+.NESM{
+     
+     margin-left : 605px ;}
+.getintouch 
+         {text-decoration-line: underline ;
+            margin-left: 600px ;}    
+.titre-seemore {
+        color: rgb(30, 30, 156) ;
+        margin-left :700px ;
+        font-size: 20px;   
+             }
+        
+.txt-pres-trainrship{color: rgb(30, 30, 156) ;
+margin-left : 750px ;
+font-size:33px;} 
+.table-internshipe{border: 2px solid blue ;
+        border-width:2px ;  
+        border-style:solid;   
+        padding :15px ; }
+tr{text-align: center;}
+p{text-justify: auto ;}
+.comptance{     margin-left:260px ;
+                margin-top: 100px ;}
+
+.footer { 
+                position: fixed;
+                left: 0;
+                bottom: 0;
+                width: 100%;
+                background-color:  none;
+                color: black;
+                text-align: center;
+                border: 2px solid rgb(172, 165, 154) ;
+                border-style: solid;
+                margin-bottom:0px ;
+            }
+    .blackfooter{ color: white;
+    }
+    
+    
